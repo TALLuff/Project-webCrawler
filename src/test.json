@@ -1,0 +1,4 @@
+{
+  "200": ["/apples.html", "/salmon.html", "/oranges.html"],
+  "404": ["/stilton.html", "/garbage.html"]
+}

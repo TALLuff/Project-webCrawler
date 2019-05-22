@@ -1,0 +1,20 @@
+{
+  "name": "Project-webCrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "utilFuncs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TALLuff/Project-webCrawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TALLuff/Project-webCrawler/issues"
+  },
+  "homepage": "https://github.com/TALLuff/Project-webCrawler#readme"
+}
